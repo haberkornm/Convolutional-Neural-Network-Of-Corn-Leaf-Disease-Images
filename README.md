@@ -6,7 +6,7 @@ A Convolutional Neural Network (CNN) for four categories of corn leaf disease im
 
 ## Table of Contents
   1. [Project Final Report](https://github.com/haberkornm/Convolutional-Neural-Network-Of-Corn-Leaf-Disease-Images/blob/main/Final_Report.pdf)
-  2. [Project Presentation Slides]()
+  2. [Project Presentation Slides](https://github.com/haberkornm/Convolutional-Neural-Network-Of-Corn-Leaf-Disease-Images/blob/main/Slide_presentation.pdf)
   3. Original images can be found at: [Kaggle: Corn or Maize Leaf Disease Dataset](https://www.kaggle.com/smaranjitghose/corn-or-maize-leaf-disease-dataset)
   4. [Data Wrangling and EDA](https://github.com/haberkornm/Convolutional-Neural-Network-Of-Corn-Leaf-Disease-Images/blob/main/Corn%20Disease%20Wrangling%20and%20EDA.ipynb)
       -Raw images viewed and explored 
